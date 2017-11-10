@@ -1,1 +1,7 @@
-ï»¿## YongJu Leeë‹˜ì˜ ì €ì¥ì†Œ ì…ë‹ˆë‹¤.
+# ¡ºFashion_MNIST : Yongju Lee¡»
+
+ÀÌ ÀúÀå¼Ò´Â YongJu Lee´ÔÀÇ ÀúÀå¼Ò ÀÔ´Ï´Ù.
+
+---
+## Reference
+[Fashion-MNIST: a Novel Image Dataset for BenchmarkingMachine Learning Algorithms](https://arxiv.org/abs/1708.07747) - Fashion MNIST
